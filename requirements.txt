@@ -1,0 +1,6 @@
+# Runtime dependencies for the educational Anime Vanguards Auto Farm World 2 macro
+keyboard==0.13.5
+pyautogui==0.9.54
+opencv-python==4.10.0.84
+pillow==10.4.0
+numpy==1.26.4
